@@ -1,0 +1,11 @@
+{
+  "extends": "@xiaohe01/tsconfig/tsconfig.lib.json",
+  "include": [
+    "scripts/**/*.ts",
+    "manifest.config.ts",
+    "pages.config.ts",
+    "vite.config.ts",
+    "eslint.config.js",
+    "stylelint.config.js"
+  ]
+}

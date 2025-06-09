@@ -1,0 +1,17 @@
+{
+  "globalStyle": {
+    "navigationBarTitleText": "xiaohe-uniapp-lite",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#ffffff",
+    "mp-weixin": {
+      "handleWebviewPreload": "auto"
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/index",
+      "type": "home"
+    }
+  ],
+  "subPackages": []
+}
